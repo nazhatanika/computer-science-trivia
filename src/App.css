@@ -2,7 +2,7 @@
   max-width: 1280px;
   margin: 0 auto;
   padding: 10rem;
-  background-color: #f4f4f4;
+  background: linear-gradient(to bottom, #fff5ba, #ffd1dc);
   text-align: center;
 }
 
@@ -27,7 +27,7 @@
   width: 450px;
   min-height: 300px;
   padding: 1.5rem;
-  background-color: white;
+  background-color: rgba(255, 255, 255, 0.4);
   border: 0.5px solid #333;
   /* border-radius: 10px; */
   box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.1);
@@ -41,7 +41,7 @@
 }
 
 .flashcard.flipped{
-  background-color: #ffe58f; 
+  background-color: rgb(255, 229, 143, 0.4); 
   transform: rotateY(360deg);
 }
 
