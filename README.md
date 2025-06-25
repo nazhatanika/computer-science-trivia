@@ -45,8 +45,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories: 
 
+![Kapture 2025-06-24 at 22 46 36](https://github.com/user-attachments/assets/7585c67c-c355-4f93-9410-6ff0bb731804)
 
-<!-- Replace this with whatever GIF tool you used! -->
+
 GIF created with Kap
 
 ## Notes
